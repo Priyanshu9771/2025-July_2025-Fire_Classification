@@ -31,20 +31,20 @@ The workflow includes data preprocessing, feature engineering, and model trainin
 4. Run the notebook:
    `Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data (1).ipynb`
 
-## 📥 Download Trained Model
+📥 Download Trained Model
 
 The trained model file is too large for GitHub.
 You can download it from Google Drive:
 
 🔗 **[Download Model File (Google Drive)](https://drive.google.com/file/d/1K-CkomnFCIaZVmTCCGRVR1wG75_54EZU/view?usp=drive_link)**
 
-## 📊 Output
+📊 Output
 
 * Accuracy score of the model
 * Classification report
 * Visualizations for fire type distribution
 
-## 📝 Author
+📝 Author
 * **Priyanshu Dubey**
 
   * GitHub: [Priyanshu9771](https://github.com/Priyanshu9771)
