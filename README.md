@@ -45,7 +45,6 @@ You can download it from Google Drive:
 * Visualizations for fire type distribution
 
 ## 📝 Author
-
 * **Priyanshu Dubey**
 
   * GitHub: [Priyanshu9771](https://github.com/Priyanshu9771)
